@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea75e5a1-53fa-4914-8eaa-29186801772a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1u7omq7V5zaOKTQZTTGhar0dCsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hP\IdeaProjects\YasserHassanSDET" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.VodafoneSearchQuery (1)">
+    <configuration name="C:/Users/hP/IdeaProjects/YasserHassanSDET/src/test/java/testcases/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YasserHassanSDET" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testcases/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/hP/IdeaProjects/YasserHassanSDET/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YasserHassanSDET" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodafoneSearchQuery (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YasserHassanSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.VodafoneSearchQuery" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodafoneSearchQuery (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YasserHassanSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.VodafoneSearchQuery" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodafoneSearchQuery" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YasserHassanSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.VodafoneSearchQuery" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/hP/IdeaProjects/YasserHassanSDET/src/test/java/testcases/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/hP/IdeaProjects/YasserHassanSDET/testng.xml" />
+      <item itemvalue="TestNG.VodafoneSearchQuery (1)" />
+      <item itemvalue="TestNG.VodafoneSearchQuery" />
+      <item itemvalue="TestNG.VodafoneSearchQuery (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VodafoneSearchQuery (1)" />
+        <item itemvalue="TestNG.VodafoneSearchQuery (2)" />
+        <item itemvalue="TestNG.VodafoneSearchQuery" />
+        <item itemvalue="TestNG.C:/Users/hP/IdeaProjects/YasserHassanSDET/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/hP/IdeaProjects/YasserHassanSDET/src/test/java/testcases/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea75e5a1-53fa-4914-8eaa-29186801772a" name="Default Changelist" comment="" />
+      <created>1624026151455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624026151455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testcases/VodafoneSearchQuery.java</url>
+          <line>52</line>
+          <properties class="testcases.VodafoneSearchQuery" method="InitiateVodafoneSearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
