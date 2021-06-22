@@ -69,7 +69,7 @@ public class VodafoneSearchQuery extends baseClass
         {
             Assert.assertEquals(a[1], a[2]);
         }
-        catch (Exception e)
+        catch (AssertionError e)
         {
             captureScreenshot(driver, data.readPropertiesFile("errorText"));
         }
